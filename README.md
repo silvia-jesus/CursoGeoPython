@@ -45,8 +45,16 @@ Este repositório contém os notebooks, dados e materiais de apoio para o curso 
 
 ## Estrutura do Repositório
 - **notebooks/**: Contém os notebooks organizados por aula.
-- **dados/**: Arquivos de dados geoespaciais utilizados no curso (vetoriais e raster).
 - **docs/**: Documentação adicional e materiais de apoio.
+
+## Acesso aos Dados
+Os dados utilizados neste curso estão disponíveis no Google Drive. Você pode acessá-los através dos seguintes links:
+[Aula 01](https://drive.google.com/drive/folders/1YOntYAEm1gnr_b8fm-0gSSN6tmP_Okjl?usp=drive_link)
+[Aula 02](https://drive.google.com/drive/folders/109MvSRZ3FLQ2wl1ujqQ4yoeYnD8MhQXi?usp=drive_link)
+[Aula 03](https://drive.google.com/drive/folders/19lQZAoFz8RNcVszk1pAkQYYnTohz3XB7?usp=drive_link)
+[Aula 04](https://drive.google.com/drive/folders/1V3XhIBVGy0WjPtwSM_-AjJIizH8thEzD?usp=drive_link)
+[Aula 05](https://drive.google.com/drive/folders/1taPIPFybzm8DpcDVJBUY4aMJcjyTygQY?usp=drive_link)
+[Aula 06](https://drive.google.com/drive/folders/1lOcHWf7uxygS3StgCf5EaVcMtWTkmLbJ?usp=drive_link)
 
 ## Como Usar Este Repositório
 1. Clone o repositório:
