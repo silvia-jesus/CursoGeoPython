@@ -1,7 +1,3 @@
-# CursoGeoPython
-Este repositório contém os notebooks, dados e materiais de apoio para o curso de Geoprocessamento com Python, focado em ensinar os conceitos e práticas essenciais de análise de dados geoespaciais usando Python. O curso está dividido em seis aulas que cobrem desde conceitos básicos até operações avançadas de álgebra de mapas, explorando as bibliotecas GeoPandas, Matplotlib e Rasterio.
-
-
 # Curso de Geoprocessamento com Python (GeoPython)
 
 Este repositório contém os notebooks, dados e materiais de apoio para o curso de Geoprocessamento com Python, focado em ensinar os conceitos e práticas essenciais de análise de dados geoespaciais usando Python. O curso está dividido em seis aulas que cobrem desde conceitos básicos até operações avançadas de álgebra de mapas, explorando as bibliotecas GeoPandas, Matplotlib e Rasterio.
