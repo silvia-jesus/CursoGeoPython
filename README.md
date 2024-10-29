@@ -37,7 +37,7 @@ Este repositório contém os notebooks, dados e materiais de apoio para o curso 
 ## Requisitos
 - **Python 3.8+**
 - **Bibliotecas:** GeoPandas, Rasterio, Matplotlib, NumPy, Pandas
-- Recomendamos o uso do Google Colab ou Jupyter Notebook para execução dos notebooks de maneira prática.
+- Recomenda-se o uso do Google Colab ou Jupyter Notebook para execução dos notebooks de maneira prática.
 
 ## Estrutura do Repositório
 - **notebooks/**: Contém os notebooks organizados por aula.
