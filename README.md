@@ -55,7 +55,7 @@ Os dados utilizados neste curso estão disponíveis no Google Drive. Você pode 
 ## Como usar este repositório
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gepython-curso.git
+   git clone https://github.com/silvia-jesus/CursoGeoPython.git
 2. Navegue até o diretório do~repositório:
    ```bash
    cd gepython-curso
