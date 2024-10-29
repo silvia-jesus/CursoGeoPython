@@ -1,2 +1,67 @@
 # CursoGeoPython
-Curso de Geoprocessamento com Python (GeoPython): uma introdução prática ao uso de Python para análise de dados geoespaciais. Aprenda conceitos fundamentais, manipulação de dados vetoriais e raster, visualização com mapas temáticos e operações avançadas de álgebra de mapas usando GeoPandas, Matplotlib e Rasterio.
+Este repositório contém os notebooks, dados e materiais de apoio para o curso de Geoprocessamento com Python, focado em ensinar os conceitos e práticas essenciais de análise de dados geoespaciais usando Python. O curso está dividido em seis aulas que cobrem desde conceitos básicos até operações avançadas de álgebra de mapas, explorando as bibliotecas GeoPandas, Matplotlib e Rasterio.
+
+
+# Curso de Geoprocessamento com Python (GePython)
+
+Este repositório contém os notebooks, dados e materiais de apoio para o curso de Geoprocessamento com Python, focado em ensinar os conceitos e práticas essenciais de análise de dados geoespaciais usando Python. O curso está dividido em seis aulas que cobrem desde conceitos básicos até operações avançadas de álgebra de mapas, explorando as bibliotecas GeoPandas, Matplotlib e Rasterio.
+
+## Ementa
+
+### Aula 01: Conceitos Básicos de Geoprocessamento
+- Introdução aos conceitos de geoprocessamento e sua aplicação em ciências ambientais e áreas afins.
+- Tipos de dados geoespaciais:
+  - **Dados Vetoriais:** pontos, linhas e polígonos.
+  - **Dados Raster:** grades e imagens de satélite.
+- Geometrias básicas: estrutura e manipulação de pontos, linhas e polígonos em Python.
+- Sistemas de coordenadas e projeções geográficas: fundamentos, importância, e práticas para o trabalho com diferentes sistemas de referência espacial.
+
+### Aula 02: Leitura e Escrita de Dados Geoespaciais
+- Operações de leitura e escrita com dados geoespaciais usando GeoPandas.
+- União de tabelas (joins espaciais e não espaciais): introdução a operações de união de dados para análises integradas.
+
+### Aula 03: Manipulação Avançada de Dados Vetoriais
+- Operações de seleção e manipulação de dados geoespaciais.
+- Técnicas para filtragem, agrupamento e resumo de dados vetoriais.
+
+### Aula 04: Visualização e Criação de Mapas
+- Plotagem de dados geoespaciais com as bibliotecas Matplotlib e GeoPandas.
+- Criação de mapas temáticos para análise visual.
+- Estilização e personalização de mapas: cores, legendas, escala e orientações para produzir mapas profissionais.
+
+### Aula 05: Introdução ao Formato Raster
+- Conceitos e introdução ao formato raster para análise espacial.
+- Leitura e manipulação de dados raster utilizando a biblioteca Rasterio.
+- Processamento de imagens de satélite e operações básicas com dados raster.
+
+### Aula 06: Operações de Álgebra de Mapas
+- Introdução a operações de álgebra de mapas para análise espacial avançada.
+- Aplicação de operações raster para extração de informações e análises ambientais.
+
+## Requisitos
+- **Python 3.8+**
+- **Bibliotecas:** GeoPandas, Rasterio, Matplotlib, NumPy, Pandas
+- Recomendamos o uso do Google Colab ou Jupyter Notebook para execução dos notebooks de maneira prática.
+
+## Estrutura do Repositório
+- **notebooks/**: Contém os notebooks organizados por aula.
+- **dados/**: Arquivos de dados geoespaciais utilizados no curso (vetoriais e raster).
+- **docs/**: Documentação adicional e materiais de apoio.
+
+## Como Usar Este Repositório
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/gepython-curso.git
+2. Navegue até o diretório do~repositório:
+   ```bash
+   cd gepython-curso
+
+3. Instale os requisitos:
+    ```bash
+    pip install -r requirements.txt
+    cd gepython-curso
+
+5. Abra os notebooks em seu ambiente de preferência (Jupyter Notebook ou Google Colab) e siga as instruções de cada aula.
+
+## Licença
+Este material é disponibilizado sob a Licença Pública Geral GNU (GPL). Você é livre para usar, modificar e redistribuir este material, desde que as modificações também sejam disponibilizadas sob a mesma licença. Isso garante que todos tenham acesso ao código-fonte e às melhorias feitas, preservando as liberdades de uso, estudo e compartilhamento.
