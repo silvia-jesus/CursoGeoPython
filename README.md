@@ -25,7 +25,7 @@ Este repositório contém os notebooks, dados e materiais de apoio para o curso 
 - Criação de mapas temáticos para análise visual.
 - Estilização e personalização de mapas: cores, legendas, escala e orientações para produzir mapas profissionais.
 
-### Aula 05: Introdução ao rormato raster
+### Aula 05: Introdução ao formato raster
 - Conceitos e introdução ao formato raster para análise espacial.
 - Leitura e manipulação de dados raster utilizando a biblioteca Rasterio.
 - Processamento de imagens de satélite e operações básicas com dados raster.
