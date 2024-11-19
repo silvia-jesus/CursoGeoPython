@@ -20,7 +20,7 @@ Este repositório contém os notebooks, dados e materiais de apoio para o curso 
 - Operações de seleção e manipulação de dados geoespaciais.
 - Técnicas para filtragem, agrupamento e resumo de dados vetoriais.
 
-### Aula 04: Visualização e eriação de mapas
+### Aula 04: Visualização e criação de mapas
 - Plotagem de dados geoespaciais com as bibliotecas Matplotlib e GeoPandas.
 - Criação de mapas temáticos para análise visual.
 - Estilização e personalização de mapas: cores, legendas, escala e orientações para produzir mapas profissionais.
